@@ -1,4 +1,4 @@
-function init() {
+/*function init() {
   var button = document.getElementById('entrybutton');
 
 function showMeText() {
@@ -12,11 +12,11 @@ function showMeText() {
 
 function customAlert(message) {
   alert(message);
-}
+}*/
 
   window.addEventListener('load', init);
 
-/*function init(){
+function init(){
   var button = document.getElementById('entrybutton');
 
   function showMeText(){
@@ -28,4 +28,4 @@ function customAlert(message) {
   button.addEventListener('click', showMeText);
   }
   
-window.addEventListener('load', init);*/
+window.addEventListener('load', init);
